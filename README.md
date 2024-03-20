@@ -7,7 +7,7 @@ Backend web developer & Database Engineer
 I'm an enthusiastic learner and I love to build stuff. This passion led me to take professional courses by offered meta to sharpen my skills and build several projects from the ground up using every skill I've learned.😌
 
 * 🌍  I'm based in Lagos, Nigeria 🇳🇬
-* 🖥️  See my portfolio at [Visit my Portfolio](http://gitHub.com/davysongs )
+* 🖥️  See my portfolio at [Visit my Portfolio](https://davysongs.pages.dev)
 * ✉️  You can contact me at [davidgsongs@gmail.com](mailto:davidgsongs@gmail.com)
 * 🚀  I'm currently working on [Quizify](http://gitHub.com/davysongs/quizify )
 * 🧠  I'm learning Containerization, Docker, Kubernetes and Cloud Operations
