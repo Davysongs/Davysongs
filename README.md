@@ -9,7 +9,7 @@ I'm an enthusiastic learner and I love to build stuff. This passion led me to ta
 * 🌍  I'm based in Lagos, Nigeria 🇳🇬
 * 🖥️  See my portfolio at [Visit my Portfolio](https://davysongs.pages.dev)
 * ✉️  You can contact me at [davidgsongs@gmail.com](mailto:davidgsongs@gmail.com)
-* 🚀  I'm currently working on [Quizify](http://gitHub.com/davysongs/quizify )
+* 🚀  I'm currently working on [Top Choice Bank](http://gitHub.com/davysongs/onlinebank )
 * 🧠  I'm learning Containerization, Docker, Kubernetes and Cloud Operations
 * 🤝  I'm open to collaborating on Any interesting Django Backend project
 * ⚡  I play the keyboard 🎹 like a wizard. Trust me I'm good 😏
