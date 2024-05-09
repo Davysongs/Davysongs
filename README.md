@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Godson David
 ====================================================================================================================================
 
-Backend web developer & Database Engineer
+Backend Web Developer & Database Engineer
 -----------------------------------------
 
-I'm an enthusiastic learner and I love to build stuff. This passion led me to take professional courses by offered meta to sharpen my skills and build several projects from the ground up using every skill I've learned.😌
+I'm an enthusiastic learner and I love to build stuff. This passion led me to take professional courses by offered meta to sharpen my skills and build several projects from the ground up using every skill I've learned. Including problem solving, collaboration, prompt engineering, team management and all the nerdy tech stuff😌
 
 * 🌍  I'm based in Lagos, Nigeria 🇳🇬
 * 🖥️  See my portfolio: [Visit my Portfolio](https://davysongs.pages.dev)
