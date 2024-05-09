@@ -7,12 +7,13 @@ Backend web developer & Database Engineer
 I'm an enthusiastic learner and I love to build stuff. This passion led me to take professional courses by offered meta to sharpen my skills and build several projects from the ground up using every skill I've learned.😌
 
 * 🌍  I'm based in Lagos, Nigeria 🇳🇬
-* 🖥️  See my portfolio at [Visit my Portfolio](https://davysongs.pages.dev)
+* 🖥️  See my portfolio: [Visit my Portfolio](https://davysongs.pages.dev)
 * ✉️  You can contact me at [davidgsongs@gmail.com](mailto:davidgsongs@gmail.com)
 * 🚀  I'm currently working on [Top Choice Bank](http://gitHub.com/davysongs/topchoicebank)
-* 🧠  I'm learning Containerization, Docker, Kubernetes and Cloud Operations
-* 🤝  I'm open to collaborating on Any interesting Django Backend project
-* ⚡  I play the keyboard 🎹 like a wizard. Trust me I'm good 😏
+* 🧠  I'm learning Containerization and Cloud Operations.
+* 🤝  I'm open to collaborating on Any interesting Python, Django, Javascript and Front-End Projects too.
+* ⚡  I play the keyboard 🎹 like a wizard, Trust me.
+* ♟   I'm also good at chess too 😏
 
 ### Skills
 
