@@ -9,9 +9,9 @@ I'm an enthusiastic learner and I love to build stuff. This passion led me to ta
 * 🌍  I'm based in Lagos, Nigeria 🇳🇬
 * 🖥️  See my portfolio: [Visit my Portfolio](https://davysongs.pages.dev)
 * ✉️  You can contact me at [davidgsongs@gmail.com](mailto:davidgsongs@gmail.com)
-* 🚀  I'm currently working on [Top Choice Bank](http://gitHub.com/davysongs/topchoicebank)
-* 🧠  I'm learning Containerization and Cloud Operations.
-* 🤝  I'm open to collaborating on Any interesting Python, Django, Javascript and Front-End Projects too.
+* 🚀  I'm currently working on Freelance Projects
+* 🧠  I'm learning DevOps Engineering.
+* 🤝  I'm open to collaborating on Any interesting Python, Django, Javascript, React and Typescript too.
 * ⚡  I play the keyboard 🎹 like a wizard, Trust me.
 * ♟   I'm also good at chess too 😏
 
